@@ -1,8 +1,5 @@
-// Project 2: Anonymous Web Get
+// Anonymous Web Get
 // Author: Aaron Smith, Alan Nash
-// Date:   10/1/2015
-// Class:  CS457
-// Email:  acsmit@rams.colostate.edu
 
 #include <sys/socket.h>
 #include <errno.h>

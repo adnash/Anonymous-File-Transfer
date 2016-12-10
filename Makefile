@@ -1,8 +1,7 @@
 #
-#	Makefile for Project 2
-#	Aaron Smith
-#	CS457
-#	Oct. 1, 2015  
+#	Makefile for awget
+#	Aaron Smith, Alan Nash
+#	
 #
 
 CC = /usr/bin/cc
