@@ -1,0 +1,17 @@
+// Project 2: Anonymous Web Get
+// Author: Aaron Smith, Alan Nash
+// Date:   10/1/2015
+// Class:  CS457
+
+//README
+
+// Aaron and Alan worked togther for this project.
+
+// The Stepping Stones are run by calling ./ss with an optional argumment [-p portNumber]. 
+// The Awget is run by calling ./awget <URL> and an optional arugument [-c chainfile]. If the chainfile arugument is not given, then the program reads a local file called chaingang.txt.
+// The chainfile must contain vaild IP addresses and the correct port numbers that the Stepping Stones are running on. 
+
+// The file requested by Awget will be stored locally on the machine running Awget, and the files will be removed from the Stepping Stones.
+
+// Multiple Awget calls can occur on the chain of stepping stones at the same time
+
